@@ -340,7 +340,7 @@ body{
     }
     .footer section{
         margin-left: 0px;
-        font-weight: lighter;
+        font-weight: bold;
     }
     .mobile-menu{
         display: flex;
